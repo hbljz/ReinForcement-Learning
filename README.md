@@ -1,0 +1,2 @@
+# ReinForcement-Learning
+这是我在学习ReinForcement-Learning(强化学习)过程中所用的练习代码，大部分代码中的神经网络模型中的变量都是可以保存的，直接读取到训练时的结果用来测试使用。
